@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "547457198453",
+    "project_id": "tinderex-204b5",
+    "storage_bucket": "tinderex-204b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547457198453:android:6d350b214d5363ef424b3c",
+        "android_client_info": {
+          "package_name": "com.extinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547457198453-p6e8rpoe29m1mvj5flso4t7u4s6jqq44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.extinder",
+            "certificate_hash": "e5028e0f7789f935d5d52147117683a7cae2379f"
+          }
+        },
+        {
+          "client_id": "547457198453-votuhhmbepttv62mb63hsnmtcpgie4c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXCl6yuCW13dXeFeZiU80mPZHWrUhGpGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547457198453-votuhhmbepttv62mb63hsnmtcpgie4c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
